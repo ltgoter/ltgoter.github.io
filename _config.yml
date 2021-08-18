@@ -150,10 +150,10 @@ night_mode: "off"
 
 # Page default value
 # defaults:
-  home:
-    heading: "try and play"
-    subheading: "trying"
-    banner: "/assets/images/banners/banners.jpg"
+# home:
+#   heading: "try and play"
+#   subheading: "trying"
+#   banner: "/assets/images/banners/banners.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
