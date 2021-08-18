@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   pavilion try rdma, os, hpc and so on.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.ltstriker.cn" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/images/banners/headers.gif" # the favicon for your site
 
 # Yat date format
